@@ -11,4 +11,4 @@ I document daily progress, ideas, experiments, and reflections.
 ## Structure
 - /logs → daily logs
 - /ideas → raw ideas and concepts
-- /roadmap.md → direction and goals
+- /roadmap.md → direction and goals 
