@@ -12,3 +12,5 @@ I document daily progress, ideas, experiments, and reflections.
 - /logs → daily logs
 - /ideas → raw ideas and concepts
 - /roadmap.md → direction and goals 
+## Philosophy
+Build in public. Iterate fast.
